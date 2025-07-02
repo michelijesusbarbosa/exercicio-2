@@ -1,6 +1,9 @@
-body{
-    background-color: beige;
+body {
+    background-color: aliceblue;
     color:blue;
     text-align: justify;
     font-size: 30px;
-}
+    }
+    h1{ 
+        background-color: black;
+    }
